@@ -1,6 +1,6 @@
 [submodule "Wallet/ThirdParty/variant"]
 	path = Wallet/ThirdParty/variant
-	url = https://github.com/mapbox/variant.git
+	url = https://github.com/aleksejmelman/variant.git
 [submodule "Wallet/ThirdParty/GSL"]
 	path = Wallet/ThirdParty/GSL
 	url = https://github.com/Microsoft/GSL.git
